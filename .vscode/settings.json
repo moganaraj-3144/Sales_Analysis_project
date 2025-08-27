@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "salesdb",
+            "database": "DataWarehouse",
+            "username": "postgres",
+            "connectionTimeout": 30
+        }
+    ]
+}
